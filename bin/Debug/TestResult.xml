@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="1" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2017-09-19 17:23:54Z" end-time="2017-09-19 17:23:55Z" duration="0.931242">
+  <command-line><![CDATA[nunit3-console.exe  ClassLibrary1.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="ClassLibrary1.dll" fullname="D:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-09-19 17:23:54Z" end-time="2017-09-19 17:23:55Z" duration="0.064840" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+    <environment framework-version="3.8.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.15063.0" platform="Win32NT" cwd="D:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug" machine-name="ELENAPC" user="ElenaPC" user-domain="ELENAPC" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="D:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.1" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="9192" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="ClassLibrary1" fullname="ClassLibrary1" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-09-19 17:23:55Z" end-time="2017-09-19 17:23:55Z" duration="0.042418" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+      <test-suite type="TestFixture" id="0-1000" name="Class1" fullname="ClassLibrary1.Class1" classname="ClassLibrary1.Class1" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-09-19 17:23:55Z" end-time="2017-09-19 17:23:55Z" duration="0.035119" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="0-1001" name="PlussTest1" fullname="ClassLibrary1.Class1.PlussTest1" methodname="PlussTest1" classname="ClassLibrary1.Class1" runstate="Runnable" seed="1608043103" result="Passed" start-time="2017-09-19 17:23:55Z" end-time="2017-09-19 17:23:55Z" duration="0.022491" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

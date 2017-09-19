@@ -1,0 +1,14 @@
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+D:\Файлы\Универ\4 Курс\Тестирование программного обеспечения\Лабораторные работы\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.dll
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\bin\Debug\nunit.framework.xml
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+d:\Files\University\4_Year\Software testing\Laboratory_works\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
